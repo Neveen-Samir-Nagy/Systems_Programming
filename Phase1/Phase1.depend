@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557174863 source:c:\users\mgm\downloads\c&c++projects\phase1\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<queue>
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+	<list>
+	<queue>
+	<map>
+	<iterator>
+	<cctype>
+	<stack>
+
